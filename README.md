@@ -7,6 +7,7 @@ Time spent: 2.5 hours spent in total
 Completed user stories:
 
 - Required: Basic tip calculator functionality
+- Required: Add a README file with a gif preview of the app
 - Optional: Change the colors and fonts of the views
 
 ![Preview](/tipspreview.gif)
